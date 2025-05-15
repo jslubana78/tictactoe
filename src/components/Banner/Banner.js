@@ -5,7 +5,7 @@ function Banner() {
   return (
     <div className='banner'>
       <img src={TicTacToeImage} alt='TicTacToe' />
-      <h1>Tic-Tac-Toe</h1>
+      <h1>Tic-Tac-Toe d</h1>
     </div>
   )
 }
